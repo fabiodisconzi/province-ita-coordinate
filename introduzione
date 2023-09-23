@@ -1,0 +1,4 @@
+Prendendo gli shapefile forniti da ISTAT (https://www.istat.it/it/archivio/222527) ho generato i centroidi di ogni provincia usando QGIS.
+Per farlo è necessario riparare le geometrie in quanto 4 province hanno i dati corrotti.
+Il risultato è presente nel file .csv in cui il ";" fa da separatore, X ed Y sono longitudine e latitudine.
+Fabio
